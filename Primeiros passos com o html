@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros passos no HTML</title>
+</head>
+<body>
+    <h1 id="Inicio">
+        Compreendendo algumas tags no html </h1>
+        <hr/>
+        
+    <h2>Indice</h2>
+
+    <ul>
+        <li><a href="tags">O que sao tgs?</a></li>
+        <li><a href=" P">Tag P</a></li>
+        <li><a href=" ul">Tag Ul</a></li>
+        <li><a href="strong">Tag strong</a></li>
+        <li><a href="a href">a hrefs</a></li>
+    </ul>
+
+    <h2 id="tags" >O que sao tag`s?</h2>
+    <p> Tag” em inglês quer dizer etiqueta. As tags na internet são palavras que servem justamente como uma etiqueta e ajudam na hora de organizar informações,
+        agrupando aquelas que receberam a mesma marcação,
+        facilitando encontrar outras relacionadas.
+Esse sistema de classificação não é novo e já era utilizado em bibliotecas
+        para organizar livros em temas semelhantes.</p>
+    </p>
+
+    <h2 id="Tag P">Tag P</h2>
+    <p> O elemento HTML representa um parágrafo. Em mídias visuais, parágrafos são representados como blocos indentados de texto com a primeira letra avançada e separados por linhas em branco. Já em HTML, parágrafos são usados para agrupar conteúdos relacionados de qualquer tipo, 
+        como imagens e campos de um formulário. </p>
+
+<h2 id="Tag Ul">Tag Ul</h2>
+<p> O elemento HTML (ou elemento HTML de Lista desordenada) representa uma lista de itens sem ordem rígida, isto é, uma coleção de itens que não trazem uma ordenação numérica e as suas posições, nessa lista, são irrelevantes. Caracteristicamente, os itens em uma lista desordenada são exibidos com um marcador que pode ter várias formas, como um ponto, um círculo, ou um quadrado.
+     O tipo de marcador não é definido na descrição HTML da página,
+     </p>
+
+
+<h2 id="Tag- strong">Tag- strong</h2>
+<p>O elemento HTML dá ao texto uma forte importância, e é tipicamente mostrado em negrito.Assim, chamando mais a atencao do leitor para as informacoes apresentadas no texto. Alem disso è comumente usado com outras tags.</p>
+
+<h2 id="Tag a href">Tag a href</h2>
+<small><a href="Inicio">(Voltar)</a></small>
+<p> A tag href é um atributo utilizado em elementos HTML, como a tag <a> (âncora), para criar um link para outra página ou recurso externo. O valor do atributo href é o endereço do link para onde o usuário será direcionado quando clicar no elemento. A sintaxe é:
+    ```html </p>
+<p></p>
+
+<hr/>
+<h3>Referencias</h3>
+<p><ol>
+    <li> <a href="https://www.youtube.com/watch?v=yvCAX68TJMc&t=2130s&pp=ygUEaHRtbA%3D%3D"> Curso para iniciantes</a>
+    <li> <a href="https://developer.mozilla.org/pt-BR/docs/Web/API/URL/href">Especificacao das tags</a></li>
+
+</ol></p>
+</body>
+</html>
